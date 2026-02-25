@@ -16,6 +16,6 @@ B: Actively make contact, but create anonymous throwaway accounts so your identi
 C: Because they must not realize they are being investigated, do not make any contact unless explicitly instructed.<br>
 Answer with one of SWIMMER{A}, SWIMMER{B}, or SWIMMER{C}.<br>
 
-解法
+## 解法
 the answer should be C, because we are not supposed to interact with the target<br>
 **Flag: SWIMMER{C}**
