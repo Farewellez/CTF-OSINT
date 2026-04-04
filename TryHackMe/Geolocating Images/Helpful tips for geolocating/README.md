@@ -1,4 +1,4 @@
-Wow, congrats! I found a webcam on Shodan.io(opens in new tab) and took this screenshot, you just geolocated your first image 😎
+Wow, congrats! I found a webcam on <a href="http://shodan.io/">Shodan.io</a> and took this screenshot, you just geolocated your first image 😎
 
 It's important to know what is and isn't likely to be in a country. For example, it is unlikely for a regular Catholic church to appear in places where Budhism / islam is the most popular religeion.
 
@@ -14,3 +14,9 @@ One of the more obvious ways we can geolocate an image is to look at the image d
 
 
 What about where it was posted - is there a location tagged on social media?
+
+Answer the questions below
+
+Read the above material
+
+_No answer needed_
